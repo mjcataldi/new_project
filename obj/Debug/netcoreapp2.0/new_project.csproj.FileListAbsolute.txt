@@ -1,0 +1,10 @@
+c:\Users\mcata\OneDrive\Documents\VSCode Projects\new_project\bin\Debug\netcoreapp2.0\new_project.deps.json
+c:\Users\mcata\OneDrive\Documents\VSCode Projects\new_project\bin\Debug\netcoreapp2.0\new_project.runtimeconfig.json
+c:\Users\mcata\OneDrive\Documents\VSCode Projects\new_project\bin\Debug\netcoreapp2.0\new_project.runtimeconfig.dev.json
+c:\Users\mcata\OneDrive\Documents\VSCode Projects\new_project\bin\Debug\netcoreapp2.0\new_project.dll
+c:\Users\mcata\OneDrive\Documents\VSCode Projects\new_project\bin\Debug\netcoreapp2.0\new_project.pdb
+c:\Users\mcata\OneDrive\Documents\VSCode Projects\new_project\obj\Debug\netcoreapp2.0\new_project.csproj.CoreCompileInputs.cache
+c:\Users\mcata\OneDrive\Documents\VSCode Projects\new_project\obj\Debug\netcoreapp2.0\new_project.AssemblyInfoInputs.cache
+c:\Users\mcata\OneDrive\Documents\VSCode Projects\new_project\obj\Debug\netcoreapp2.0\new_project.AssemblyInfo.cs
+c:\Users\mcata\OneDrive\Documents\VSCode Projects\new_project\obj\Debug\netcoreapp2.0\new_project.dll
+c:\Users\mcata\OneDrive\Documents\VSCode Projects\new_project\obj\Debug\netcoreapp2.0\new_project.pdb
